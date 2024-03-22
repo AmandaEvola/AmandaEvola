@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ####
-I'm Amanda Evola, a student at SNHU studying Information Technology with a Concentration in Software Development and I also work from home doing Tech Support based out of sunny Florida. Welcome to my GitHub profile! 🚀 
+I'm Amanda Evola, a student at SNHU studying Information Technology with a concentration in Software Development and I also work from home doing Tech Support based out of sunny Florida. Welcome to my GitHub profile! 🚀 
 <p float="left">
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Florida_Gators_gator_logo.svg/1200px-Florida_Gators_gator_logo.svg.png" width="200" />
   <img src="https://www.snhu.edu/-/media/images/logos/logo-abbr.ashx" width="200" />
