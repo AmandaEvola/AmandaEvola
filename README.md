@@ -21,7 +21,7 @@ I'm Amanda Evola, a student at SNHU studying Information Technology with a conce
 
 - My biggest goal is to be at a point where I can utilize my skills in operations and development so I can become a backend developer, devops, system administrator, etc. (but my biggest wish is to be involved somewhere on the development side since I am skilled in both front-end and back-end development but prefer working on the back-end).
 
-- I also enjoy volunteering and have volunteered at several animal shelters, mental health organizations, etc. and I hope to volunteer more in the future
+- I also enjoy volunteering and have volunteered at several animal shelters, mental health organizations, etc. and I hope to volunteer more in the future.
 
 - I am also a huge Star Trek: The Original Series fan and I eventually want to make it out to a Comic Con or something similar. You can add me on LinkedIn at - https://www.linkedin.com/in/amandaevola as well as on here on GitHub. 
 <p align="center">
