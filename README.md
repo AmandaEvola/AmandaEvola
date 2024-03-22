@@ -19,7 +19,7 @@ I'm Amanda Evola, a student at SNHU studying Information Technology with a conce
 ####  
 - I am currently learning Python, Flask, Django, and even databases and containers such as SQL, Docker, and Kubernetes. 
 
-- My biggest goal is to be at a point where I can utilize my skills in operations and development so I can become a backend developer, devops, system administration, etc. (but my biggest wish is to be involved somewhere on the development side since I am skilled in both front-end and back-end development but prefer working on the back-end).
+- My biggest goal is to be at a point where I can utilize my skills in operations and development so I can become a backend developer, devops, system administrator, etc. (but my biggest wish is to be involved somewhere on the development side since I am skilled in both front-end and back-end development but prefer working on the back-end).
 
 - I also enjoy volunteering and have volunteered at several animal shelters, mental health organizations, etc. and I hope to volunteer more in the future
 
