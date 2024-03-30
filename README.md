@@ -24,7 +24,7 @@ I'm Amanda Evola, a student at SNHU studying Information Technology with a conce
 - I also enjoy volunteering and have volunteered at several animal shelters, mental health organizations (such as 7 Cups), etc. and I hope to volunteer more in the future.
 
 - I am also a huge Star Trek: The Original Series fan and I eventually want to make it out to a Comic Con or something similar. You can add me on LinkedIn at - https://www.linkedin.com/in/amandaevola as well as on here on GitHub. 
-<p align="center">
+<p align="left">
   <img src="https://d37v7cqg82mgxu.cloudfront.net/img/link-to-us/square/7cups-logo-text-tile.png" width="100" />
  <img src="https://mediaproxy.tvtropes.org/width/1000/https://static.tvtropes.org/pmwiki/pub/images/tos_promo_poster_rare_appvd.jpg" width="100" />
 </p>
